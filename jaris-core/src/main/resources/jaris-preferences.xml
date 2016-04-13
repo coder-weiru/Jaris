@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jaris-preferences>
+	<index-location>LuceneIndex</index-location>
+  <indexing>
+    <skip-if-processed>true</skip-if-processed>
+    <file-type>jar, zip</file-type>
+  </indexing>
+</jaris-preferences>
